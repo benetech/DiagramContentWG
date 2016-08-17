@@ -6,5 +6,5 @@ DIAGRAM Center Website http://diagramcenter.org
 Here is a link to the Goals for this working group
 https://github.com/benetech/DiagramContentWG/wiki/goals
 
-Here is a link to the co-chairs of this working group George Kerscher, Avneesh Singh, and Markku Hakkinen
+Here is a link to the co-chairs of this working group
 https://github.com/benetech/DiagramContentWG/wiki/co-chairs
