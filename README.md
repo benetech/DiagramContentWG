@@ -8,3 +8,6 @@ https://github.com/benetech/DiagramContentWG/wiki/goals
 
 Here is a link to the co-chairs of this working group
 https://github.com/benetech/DiagramContentWG/wiki/co-chairs
+
+Here is a link to the meeting minutes of this working group
+https://github.com/benetech/DiagramContentWG/wiki/Meeting-Minutes
